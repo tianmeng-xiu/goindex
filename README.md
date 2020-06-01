@@ -11,6 +11,6 @@ Google Drive Directory Index
 
 ## 安装运行
 
-1、访问[https://install.gd.workers.dev/](https://install.gd.workers.dev/)  
+1、访问[https://install.kenci.workers.dev ](https://install.kenci.workers.dev )  
 2、授权认证后，生成部署代码。  
 3、复制代码 到 CloudFlare 部署。  
