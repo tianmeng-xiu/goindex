@@ -7,7 +7,7 @@ Google Drive Directory Index
 流量走 CloudFlare ，网速由 CloudFlare 决定。
 
 ## Demo
-[https://index.gd.workers.dev/](https://index.gd.workers.dev/)  
+[https://install.kenci.workers.dev](https://install.kenci.workers.dev)  
 
 ## 安装运行
 
